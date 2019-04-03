@@ -1,5 +1,5 @@
 # java-docker-swarm-demo
-Demo to auto scale java application on docker swarm
+Demo to auto scale java application on docker swarm - In Progress
 
 spring boot - dependency management  
 gateway - reverse proxy  
