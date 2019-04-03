@@ -2,7 +2,7 @@
 Demo to auto scale java application on docker swarm
 
 spring boot - dependency management  
-gateway - reverse proxy
+gateway - reverse proxy  
 consul - config management  
 vault - secrets management  
 jenkins - builds 
