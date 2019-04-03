@@ -5,9 +5,9 @@ spring boot - dependency management
 gateway - reverse proxy  
 consul - config management  
 vault - secrets management  
-jenkins - builds 
+jenkins - builds  
 docker swarm - auto scale, replicas ,rolling restarts   
 artifactory - docker repo  
 micrometer - metrics, jmx, graphite  
-graphite and graphana - jmx metrics , jvm metrics, timed metrics
+graphite and graphana - jmx metrics , jvm metrics, timed metrics  
 elastic, logstash, kibana - log harvesting, dashboards, alerts  
